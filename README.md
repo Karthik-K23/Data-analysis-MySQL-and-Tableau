@@ -4,5 +4,5 @@
 
 #### This repository has the files containing
 #### 1. SQL commands used to extract the relevent datasets.
-####                                          2. Link to the dashboard uploaded in Tableau Public
+#### 2. Link to the dashboard uploaded in Tableau Public:-  https://public.tableau.com/views/SQLandTableauProject/Dashboard?:language=en&:display_count=y&:origin=viz_share_link
 
